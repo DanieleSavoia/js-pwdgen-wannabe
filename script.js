@@ -17,3 +17,4 @@ eleSpan3.innerHTML = colore;
 
 
 const eleSpan4 = document.getElementById("final")
+eleSpan4.innerHTML = userName+surname+colore+23;
